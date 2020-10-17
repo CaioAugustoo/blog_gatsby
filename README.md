@@ -8,7 +8,7 @@ Este projeto consiste em um blog pessoal, onde futuramente farei posts dando dic
 Veja abaixo uma foto do projeto.
 [![Image from Gyazo](https://i.gyazo.com/116c1aa54c6cd81afce667aca434629f.png)](https://gyazo.com/116c1aa54c6cd81afce667aca434629f)
 
-Você pode conferir o resultado final em: https://caiohtml.com
+Você pode conferir o resultado final em: https://caio-blog.netlify.app
 
 ## Objetivo do projeto
 Foi realizado este projeto com o intuito de aplicar os conhecimentos adquiridos com React. Foi reforçado, também, os conhecimentos com Hooks.
