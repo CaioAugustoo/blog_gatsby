@@ -17,7 +17,6 @@ Foi realizado este projeto com o intuito de aplicar os conhecimentos adquiridos 
 Para a realização desse projeto foi utilizado as seguintes tecnologias/linguagens: 
 - [Gatsby](https://www.gatsbyjs.com) 
 - [Typescript](https://www.typescriptlang.org)
-- [react-scroll](https://www.npmjs.com/package/react-scroll) para um scroll suave
 
 ## Instalação
 Para que este rode em sua máquina, siga os passos abaixo:
