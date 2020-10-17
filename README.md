@@ -11,7 +11,7 @@ Veja abaixo uma foto do projeto.
 Você pode conferir o resultado final em: https://caio-blog.netlify.app
 
 ## Objetivo do projeto
-Foi realizado este projeto com o intuito de aplicar os conhecimentos adquiridos com React. Foi reforçado, também, os conhecimentos com Hooks.
+Foi realizado este projeto com o intuito de aplicar os conhecimentos adquiridos com Gatsby.
 
 ## Tecnologias 
 Para a realização desse projeto foi utilizado as seguintes tecnologias/linguagens: 
