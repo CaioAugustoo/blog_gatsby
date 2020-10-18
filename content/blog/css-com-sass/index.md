@@ -1,6 +1,6 @@
 ---
 title: CSS com SASS
-date: "2020-10-19T23:46:37.121Z"
+date: "2020-10-18T23:46:37.121Z"
 description: Conheça o mais famoso pré-processador de CSS, o SASS.
 ---
 
