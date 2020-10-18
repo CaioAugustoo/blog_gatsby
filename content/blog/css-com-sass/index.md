@@ -65,7 +65,7 @@ Dá uma conferida no código abaixo:
 
 *Se você nunca usou SASS antes, você deve ter ficado meio perdido, mas fica tranquilo que irei te explicar e te garanto que quando terminar de ler esse post você já vai estar sabendo bem de SASS :)*
 
-Viu como fica mais organizado? Podemos aninhar nosso código um dentro do outro. Exemplo do código acima: a gente pôde  estilizar uma âncora que está dentro da "#section_wrapper", e dentro dessa âncora estilizamos o :hover. Legal né?
+Viu como fica mais organizado? Podemos aninhar nosso código um dentro do outro. Exemplo do código acima: a gente pôde  estilizar uma âncora que está dentro do "header", e dentro dessa âncora estilizamos o :hover. Legal né?
 
 ### O que é SASS
 
