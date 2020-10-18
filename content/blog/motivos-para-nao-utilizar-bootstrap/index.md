@@ -6,6 +6,8 @@ description: Confira alguns motivos para não utilizar Bootstrap.
 
 Nesse post te introduzo ao Bootstrap, te explico como ele funciona, e os motivos de não usá-lo (principalmente se você está entrando agora na área).
 
+*PS: O que você irá ler abaixo é apenas uma opinião minha, ok? Você pode utilizar o BS quando quiser.*
+
 ### Ah, os frameworks CSS...
 
 Bom, se você caiu aqui de paraquedas e não sabe o que é o "Bootstrap" e muito menos "framework css", pega um café e vamos aprender. Afinal, aprender e ler são coisas agradáveis!
