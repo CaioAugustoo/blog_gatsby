@@ -79,7 +79,7 @@ Quando escrevemos com SASS, não precisamos escrever SASS e CSS. Uma vez que esc
 
 A resposta é bem simples: o navegador não consegue ler arquivos .scss, mas sim .css. E afinal, um arquivo .scss ainda continua sendo uma folha de estilo. Além disso, temos a opção de [minificar](https://www.mundojs.com.br/2018/01/10/o-que-e-minificacao/) o código .css final. Ficaria algo assim:
 
-    #section_wrapper{height:100vh;width:100vw;background-color:#f0a500}#section_wrapper a{color:#675cff;text-decoration:none;transition:transform .3s ease}#section_wrapper a:hover{transform:scale(1.1)}
+    header{height: 100vh; width: 100vw; background-color: #f0a500;}header a{color: #675cff; text-decoration: none; transition: transform 0.3s ease;}header a:hover{transform: scale(1.1);}
 
 
 ### Módulos / Import
