@@ -48,17 +48,17 @@ Dá uma conferida no código abaixo:
 
 
     <!-- O mesmo código acima, agora com CSS -->
-    #section_wrapper {
+    header {
       height: 100vh;
       width: 100vw;
       background-color: #f0a500;
     }
-    #section_wrapper a {
+    header a {
       color: #675cff;
       text-decoration: none;
       transition: transform 0.3s ease;
     }
-    #section_wrapper a:hover {
+    header a:hover {
       transform: scale(1.1);
     }
 
@@ -98,7 +98,7 @@ Caso você não saiba, podemos importar arquivos .css em um único arquivo .css,
     @import 'dark-mode.scss';
     @import 'animations.scss';
     
-Dica: Quando importamos "resets.scss", ele vai gerar um arquivo .css. Para impedir isso, basta colocar um underline antes de nome do arquivo. Chamamos isso de [partials](https://riptutorial.com/sass/example/14566/partials). Então fica assim:
+Dica: Quando importamos "resets.scss", ele vai gerar um arquivo .css. Para impedir isso, basta colocar um underline antes do nome do arquivo. Chamamos isso de [partials](https://riptutorial.com/sass/example/14566/partials). Então fica assim:
 
     @import '_resets.scss';
     @import '_responsive.scss';
