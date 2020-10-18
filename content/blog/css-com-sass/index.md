@@ -17,7 +17,7 @@ Falando de forma resumida, um pré-processador é como se você estivesse progra
 
 **OBS: Nesse post eu não ensino como instalar o SASS. Caso você queira aprender a como instalar, recomendo dar uma conferida [no próprio site do SASS](https://sass-lang.com/install).*
 
-*Recomendo que você adquira um conhecimento com JavaScript, pois se eu for explicar o que é uma variavél, por exemplo, post vai ficar enorme.*
+*Recomendo que você adquira um conhecimento com JavaScript, pois se eu for explicar o que é uma variavél, por exemplo, o post vai ficar enorme.*
 
 
 Dá uma conferida no código abaixo: 
