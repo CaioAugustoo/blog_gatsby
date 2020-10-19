@@ -408,7 +408,7 @@ Esse Hook recebe dois argumentos:
 
 A função ```reducer```, abaixo, também recebe dois argumentos:
 - Estado atual;
-- Ação;
+- Ação.
 
 
 O useReducer segue a seguinte estrutura:
@@ -514,7 +514,7 @@ Como pudemos ver, os Hooks são uma maravilha e com certeza nos ajudam bastante.
 
 Diante disso, podemos sim utilizar Hooks e classes num mesmo projeto, como mencionado anteriormente. Entretanto, em <strong>minha opinião</strong> o conceito de classes no React morre com a chegada dos Hooks. 
 
-Durante muito tempo muitas aplicações React foram desenvolvidadas com classes, até mesmos algumas libs continuam usando classes. 
+Durante muito tempo muitas aplicações React foram desenvolvidadas com classes, até mesmo algumas libs continuam usando classes. 
 
 Sobretudo, você ainda pode sim utilizar classes sem problemas.
 
