@@ -1,23 +1,23 @@
-# Blog
+# ⚡️ Blog
 Blog pessoal desenvolvido com Gatsby
 
-## Sobre o projeto 
+## ℹ️ Sobre o projeto 
 Este projeto consiste em um blog pessoal, onde futuramente farei posts dando dicas e passando conhecimentos que eu adquiri e que irei adquirindo ao longo de minha carreira.
 
-## Demonstração
+## ✨ Demonstração
 Veja abaixo uma foto do projeto.
 [![Image from Gyazo](https://i.gyazo.com/116c1aa54c6cd81afce667aca434629f.png)](https://gyazo.com/116c1aa54c6cd81afce667aca434629f)
 
 
-## Objetivo do projeto
+## 🎯 Objetivo do projeto
 Foi realizado este projeto com o intuito de aplicar os conhecimentos adquiridos com Gatsby.
 
-## Tecnologias 
+## 📝 Tecnologias 
 Para a realização desse projeto foi utilizado as seguintes tecnologias/linguagens: 
 - [Gatsby](https://www.gatsbyjs.com) 
 - [Typescript](https://www.typescriptlang.org)
 
-## Instalação
+## ⚙️ Instalação
 Para que este rode em sua máquina, siga os passos abaixo:
 
 ```bash
